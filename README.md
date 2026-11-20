@@ -1,17 +1,11 @@
-# task_tracker
+# Mini Task Tracker
 
-A new Flutter project.
+Aplikasi catatan tugas harian (*To-Do List*) sederhana satu halaman yang dibuat menggunakan Flutter dan Dart.
 
-## Getting Started
+## Fitur Utama
+- **Tambah Tugas:** Memasukkan judul tugas baru melalui kolom input dan menyimpannya ke dalam daftar.
+- **Tandai Selesai:** Mengubah status tugas menggunakan *Checkbox* dengan efek teks tercoret.
+- **Hapus Tugas:** Menghapus item tugas dari daftar secara langsung.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tampilan Aplikasi
+![Tampilan Mini Task Tracker](screenshot.png)
